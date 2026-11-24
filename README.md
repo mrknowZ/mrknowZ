@@ -12,6 +12,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="./assets/profile.jpg" width="220" style="border-radius:50%" alt="Portrait of mrknowZ" />
+
+</div>
+
 ## About
 
 I am **mrknowZ**, a Computer Engineering student interested in research-driven software development. I enjoy investigating real-world problems, designing reproducible experiments, and turning findings into practical tools.
@@ -29,6 +35,16 @@ I am **mrknowZ**, a Computer Engineering student interested in research-driven s
 | Data Science | Data analysis, visualization, and evidence-based insights |
 | Software Systems | Efficient, maintainable, and observable applications |
 | Networking | Distributed systems, communication, and system behavior |
+
+## Most Committed Repositories
+
+| Rank | Repository | Commits |
+|:--:|:--|--:|
+| 1 | [Resource_aware_robotics_SAFiR_Lab](https://github.com/mrknowZ/Resource_aware_robotics_SAFiR_Lab) | 297 |
+| 2 | [hungerzzzz](https://github.com/mrknowZ/hungerzzzz) | 21 |
+| 3 | [git](https://github.com/mrknowZ/git) | 12 |
+| 4 | [MyoPulse-Robotics-Hand-rasberry-pi-pico](https://github.com/mrknowZ/MyoPulse-Robotics-Hand-rasberry-pi-pico) | 10 |
+| 5 | [Research-Paper-for-FYP](https://github.com/mrknowZ/Research-Paper-for-FYP) | 8 |
 
 ## Tech Stack
 
