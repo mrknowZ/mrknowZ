@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:14B8A6&height=220&section=header&text=Ali%20(HY)&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20Embedded%20Systems%20%7C%20Edge%20AI&descAlignY=58&descSize=20" width="100%" alt="Ali profile header" />
+<img src="./assets/profile-banner-3d.png" width="100%" alt="3D profile banner for Ali" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Research-Oriented+Problem+Solver;Exploring+AI%2C+Data%2C+and+Systems;Building+Ideas+into+Working+Projects)](https://git.io/typing-svg)
 
@@ -12,15 +12,9 @@
 
 </div>
 
-<div align="center">
-
-<img src="./assets/profile-3d.png" width="720" alt="3D-style research profile card for Ali" />
-
-</div>
-
 ## About
 
-Hi, I'm **Ali (Hy)** 👋
+Hi, I'm **Ali** 👋
 
 Final-year Computer Engineering student at **UET Taxila, Pakistan**, currently completing a **Mitacs Globalink Research Internship** at the **SAFiR Lab, Université de Sherbrooke, Canada**. I build intelligent robots across FPGA and microcontroller hardware, ROS 2 navigation, and on-device AI.
 
